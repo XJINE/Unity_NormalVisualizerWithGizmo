@@ -8,7 +8,7 @@ Visualize normal on vertex or surface with Gizmo.
 
 You can import this asset from UnityPackage.
 
-- [NormalVisualizerWithGizmo.unitypackage](https://github.com/XJINE/NormalVisualizerWithGizmo/blob/master/NormalVisualizerWithGizmo.unitypackage)
+- [NormalVisualizerWithGizmo.unitypackage](https://github.com/XJINE/Unity_NormalVisualizerWithGizmo/blob/master/NormalVisualizerWithGizmo.unitypackage)
 
 ## How to Use
 
